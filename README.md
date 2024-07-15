@@ -3,7 +3,7 @@
 The Clothing Allowance App written in Python 3 is an app designed for Nikau, Hana, and Tia to manage their clothing expenses efficiently. It allows users (in this case the family) to track their childrens spending by entering the amount spent, adjust allowances by adding money, and assess bonus eligibility based on their financial activities.
 
 # SET UP & USER INSTRUCTIONS
-1. Ensure Python 3 is downloaded on your system.
+1. Ensure Python 3 is downloaded on your system. (Download Python: https://www.python.org/downloads/)
 2. Download files: Clothing Allowance App - FINAL.py & allowance.txt 
    - (FINAL VERSION - CLOTHING ALLOWANCE APP TESTING.mov is not required: It is a run through of the program).
 3. Locate Terminal/ Command Prompt.
