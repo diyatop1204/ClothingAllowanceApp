@@ -8,5 +8,5 @@ The Clothing Allowance App written in Python 3 is an app designed for Nikau, Han
    - (FINAL VERSION - CLOTHING ALLOWANCE APP TESTING.mov is not required: It is a run through of the program).
 3. Locate Terminal/ Command Prompt.
 4. Navigate to directory containing the code file (Clothing Allowance App - FINAL.py) and ensure text file (allowance.txt) is located in the same directory.
-5. Run % python 'Clothing Allowance App - FINAL.py'
+5. Run ```python 'Clothing Allowance App - FINAL.py'```
 6. Application will open: Follow on-screen instructions to manage the clothing allowances for Nikau, Hana, and Tia.
